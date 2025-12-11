@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Monica Meriel</h1>
-<h3 align="center">A passionate learner of programming</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mnicleriem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mnicleriem" height="30" width="40" /></a>
-<a href="https://instagram.com/m.ggaile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.ggaile" height="30" width="40" /></a>
-</p>
+###
 
+<p align="left">My name is Monica Meriel and I'm a passionate learner of programming, from Manila, Philippines</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning Python<br>🎯 Goals: To improve my coding skills and build simple useful projects<br>🎲 Fun fact: I take pictures of everything, I love soft magenta colors, and winter is my comfort vibe.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
