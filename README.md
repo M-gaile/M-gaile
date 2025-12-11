@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Monica Meriel and I'm a passionate learner of programming, from Manila, Philippines</p>
+<p align="left">My name is Monica Meriel and I'm a passionate learner of programming, from Manila, Philippines!</p>
 
 ###
 
